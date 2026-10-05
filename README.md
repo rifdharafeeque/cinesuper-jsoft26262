@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Name:** Ridha Rafeeque
-- **Registration No:** JAINsoft26262
+- **Registration No:** jsoft26262
 
 ## Live Website
 

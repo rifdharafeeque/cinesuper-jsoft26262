@@ -1,2 +1,2 @@
-const SUPABASE_URL = "https://zpxrkrqmpkymlxyyutqi.supabase.co";
-const SUPABASE_KEY = "sb_publishable_fIJHt-IpJeomwOlZYDFe1A_vHD1khcj";
+const SUPABASE_URL = "https://mhaefhoncjcmkhtqyhlg.supabase.co";
+const SUPABASE_KEY = "sb_publishable_IxFpaK8nM1OfL3MTwFjB2g_ptpv6t-Q";
